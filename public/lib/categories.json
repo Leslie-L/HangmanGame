@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category": "Movies"
+    },
+    {
+        "id": 2,
+        "category": "Tv Shows"
+    },
+    {
+        "id": 3,
+        "category": "Countries"
+    },
+    {
+        "id": 4,
+        "category": "Capital Cities"
+    },
+    {
+        "id": 5,
+        "category": "Animals"
+    },
+    {
+        "id": 6,
+        "category": "Sports"
+    }
+]
